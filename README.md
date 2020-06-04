@@ -2,7 +2,8 @@
 This is my new data science repository which including implementations of common machine learning algorithms, my works in several Kaggle competitions as well as couple micro projects.
 ## Algorithms
 
-* kNN
+* **Perceptron**
+* **kNN**
   
   A visualization of how kNN works has been implemented.
 * Decision Tree
