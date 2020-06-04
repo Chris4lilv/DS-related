@@ -1,0 +1,4 @@
+#Ignore data files
+*.csv
+#Ignore tmp files created by Jupyter Notebook
+*.ipynb
