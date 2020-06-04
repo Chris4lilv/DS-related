@@ -1,4 +1,4 @@
 #Ignore data files
-.ipynb_checkpoints/
+*.csv
 #Ignore tmp files created by Jupyter Notebook
-*.ipynb
+.ipynb_checkpoints/
